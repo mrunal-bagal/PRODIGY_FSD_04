@@ -1,17 +1,25 @@
-# PRODIGY_FSD_05
-"Building a Chat App"
+# PRODIGY_FSD_04
+"Building a Chat Ap"
 
-# Task-05: Social Media Platform
+This project is a real-time chat application built using WebSocket technology, allowing users to instantly exchange messages in public chat rooms or private one-on-one conversations.
+The main goal is to provide a smooth and engaging chat experience with features such as user account creation, chat room participation, and real-time message delivery.
 
-Developed a real-time chat application using WebSocket technology to enable instant messaging between users. Users should be able to create accounts, join chat rooms or initiate private conversations, and exchange text messages in real-time.
+🚀 Key Features
+🔐 User Authentication: Users can create accounts and securely log in.
+💬 Public Chat Rooms: Users can join chat rooms and communicate in real time.
+📩 Private Messaging: One-on-one chat between users with end-to-end messaging.
+⚡ WebSocket Integration: For low-latency, bi-directional communication.
 
-Optional Features: Chat history, Notifications, user presence indicators, and multimedia file sharing capabilities to enhance the chat experience
+🌟 Optional Features
+🕓 Chat History: Messages are saved and can be accessed anytime.
+🔔 Notifications: Users are notified of new messages or mentions.
+🟢 User Presence Indicators: See who is online, typing, or idle.
+📷 Multimedia Support: Send images, videos, and files during chats.
 
 ![Project Screenshot](images/ChatApp3.png)
 
-## Technologies Used
-
-- Frontend: ReactJS / HTML / CSS / JS
-- Backend: Node.js / Express / MongoDB
-- WebSocket for real-time interactions
-
+🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript (or React/Vue, if applicable)
+Backend: Node.js with Express
+Real-Time Communication: WebSocket (ws / Socket.IO)
+Database: MySQL
