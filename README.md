@@ -1,5 +1,4 @@
-# PRODIGY_FSD_04
-"Building a Chat Ap"
+"Building a Chat App"
 
 This project is a real-time chat application built using WebSocket technology, allowing users to instantly exchange messages in public chat rooms or private one-on-one conversations.
 The main goal is to provide a smooth and engaging chat experience with features such as user account creation, chat room participation, and real-time message delivery.
